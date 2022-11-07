@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.pdf-container {
+  position: relative;
+  width: 595px;
+  height: 842px;
+  background-color: red;
+}
+
+.mark {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
